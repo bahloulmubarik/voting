@@ -1,9 +1,9 @@
-#Blockchain-Based Voting System#
+#Blockchain-Based Voting System
 
-##Introduction##
+##Introduction
 This project aims to solve the problem of voting in Pakistan by leveraging blockchain technology. Our blockchain-based voting system ensures secure, transparent, and tamper-proof voting processes. By using blockchain, we can create a decentralized and immutable ledger of votes, which enhances trust and credibility in the electoral process.
 
-##Problem Statement##
+##Problem Statement
 In Pakistan, the traditional voting system faces several challenges, including:
 
 Fraud and Manipulation: Vote tampering and rigging are prevalent, undermining the integrity of elections.
